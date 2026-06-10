@@ -1,0 +1,23 @@
+CREATE DATABASE portfolio_db;
+
+USE portfolio_db;
+
+CREATE TABLE projects (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    title VARCHAR(100),
+    description TEXT,
+    technology VARCHAR(255),
+    github_link VARCHAR(255)
+);
+
+INSERT INTO projects(title, description, technology, github_link)
+VALUES
+('Language Translator Using Text and Speech',
+ 'Web application that translates text and voice into multiple languages.',
+ 'HTML, CSS, JavaScript, Python',
+'https://github.com/PabbathiKeerthi/Language-translator-using-Text-Speech'),
+
+('Cafe Website',
+ 'Responsive cafe website with menu and contact features.',
+ 'HTML, CSS, JavaScript',
+ );

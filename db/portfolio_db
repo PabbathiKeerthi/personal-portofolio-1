@@ -15,11 +15,9 @@ VALUES
 ('Language Translator Using Text and Speech',
  'Web application that translates text and voice into multiple languages.',
  'HTML, CSS, JavaScript, Python',
-'https://github.com/PabbathiKeerthi/Language-translator-using-Text-Speech'),
-
-
+'https://github.com/PabbathiKeerthi/cafe.git'),
 
 ('Cafe Website',
  'Responsive cafe website with menu and contact features.',
  'HTML, CSS, JavaScript',
- 'https://github.com/PabbathiKeerthi/cafe.git'),
+ 'https://github.com/PabbathiKeerthi/cafe.git');

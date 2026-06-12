@@ -20,4 +20,4 @@ VALUES
 ('Cafe Website',
  'Responsive cafe website with menu and contact features.',
  'HTML, CSS, JavaScript',
- );
+ 'https://github.com/PabbathiKeerthi/cafe.git'),
